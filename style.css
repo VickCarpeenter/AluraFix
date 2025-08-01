@@ -1,6 +1,6 @@
 body {
     background-color: rgb(66, 66, 66);
-    color: rgb(95, 97, 95);
+    color: rgb(0, 0, 0);
     font-family: 'Segoe UI ' , 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
 }
@@ -13,7 +13,7 @@ header {
 
 h1 {
     font-size: 30px;
-    border-bottom: double 5px rgb(255, 255, 255);
+    border-bottom: double 5px rgb(0, 0, 0);
     text-align: center;
 }
 
